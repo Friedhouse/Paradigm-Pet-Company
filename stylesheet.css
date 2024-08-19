@@ -29,6 +29,9 @@ nav {
     background-color:#003B6D;
     border-radius: 10px;
 }
+p {
+  padding: 5%;
+}
 
 .logo {
     margin-right: 2%;
@@ -114,7 +117,7 @@ li.dropdown {
   }
   .footer-right {
     font-size: small;
-
+    padding: 0;
   }
   .card {
     background-color: #BDBDBD;

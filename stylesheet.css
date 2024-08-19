@@ -192,3 +192,7 @@ li.dropdown {
 .inline-link:hover {
   color: #676767;
 }
+
+.fish-button{
+  justify-content: center;
+}
